@@ -29,6 +29,13 @@ extra_css:
   - 'assets/stylesheets/beeping.css'
   - 'assets/fonts/beeping/graphik/graphik.css'
 
+
+# Customization
+extra:
+  social:    
+    - type: github-alt
+      link: https://github.com/beeping-io    
+
 # Repository
 repo_name: beeping-docs
 repo_url: https://github.com/beeping-io/beeping-docs

@@ -1,3 +1,4 @@
+/* Font Family */
 code,
 kbd,
 pre {
@@ -5,4 +6,14 @@ pre {
     "Courier New",
     "Courier",
     "monospace" !important;
+}
+
+/* Footer */
+.md-footer-copyright__highlight {
+    color: hsla(0, 0%, 100%, 1);
+}
+
+.md-footer-copyright {
+    font-size: .74rem;
+    padding-top: 0.9rem;
 }
