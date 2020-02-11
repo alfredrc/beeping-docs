@@ -12,15 +12,27 @@ nav:
 # Theme configuration
 theme:
   name: 'material'  
+  custom_dir: 'theme'
   language: 'en'
   favicon: 'assets/images/favicon.ico'
   logo: 'assets/images/brand.png'
+  feature:
+    tabs: true
   font:
-    text: 'Roboto'
-    code: 'Roboto Mono'
+    text: 'Graphik-Regular'
+    code: 'Graphik-Light'
   palette:
     primary: 'red'
     accent: 'light blue'
+
+extra_css:
+  - 'assets/stylesheets/beeping.css'
+  - 'assets/fonts/beeping/graphik/graphik.css'
+
+# Repository
+repo_name: beeping-docs
+repo_url: https://github.com/beeping-io/beeping-docs
+edit_uri: ""
 
 # Copyright
 copyright: 'Apache License, Version 2.0'

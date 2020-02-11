@@ -1,0 +1,126 @@
+@font-face {
+  font-family: 'Graphik';
+  src: url('Graphik-100-Thin-Italic.otf') format('opentype');
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Graphik';
+  src: url('Graphik-100-Thin.otf') format('opentype');
+  font-weight: 100;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Graphik';
+  src: url('Graphik-200-Extralight-Italic.otf') format('opentype');
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Graphik';
+  src: url('Graphik-200-Extralight.otf') format('opentype');
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Graphik';
+  src: url('Graphik-300-Light-Italic.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Graphik-Light';
+  src: url('Graphik-300-Light.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Graphik-Regular';
+  src: url('Graphik-400-Regular.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Graphik';
+  src: url('Graphik-400-RegularItalic.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Graphik-Medium';
+  src: url('Graphik-500-Medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Graphik';
+  src: url('Graphik-500-MediumItalic.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Graphik';
+  src: url('Graphik-600-Semibold-Italic.otf') format('opentype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Graphik-Semibold';
+  src: url('Graphik-600-Semibold.otf') format('opentype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Graphik';
+  src: url('Graphik-700-Bold-Italic.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Graphik';
+  src: url('Graphik-700-Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Graphik';
+  src: url('Graphik-800-Black-Italic.otf') format('opentype');
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Graphik';
+  src: url('Graphik-800-Black.otf') format('opentype');
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Graphik';
+  src: url('Graphik-900-Super-Italic.otf') format('opentype');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Graphik';
+  src: url('Graphik-900-Super.otf') format('opentype');
+  font-weight: 900;
+  font-style: normal;
+}
