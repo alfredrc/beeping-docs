@@ -6,8 +6,7 @@ site_url: https://beeping.io
 
 # Page tree
 nav:
-  - Home: index.md
-  - About: about.md
+  - Layout: index.md
 
 # Copyright
 copyright: 'Apache License, Version 2.0'
