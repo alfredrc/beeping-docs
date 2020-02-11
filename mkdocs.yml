@@ -6,11 +6,20 @@ site_url: https://beeping.io
 
 # Page tree
 nav:
-  - Layout: index.md
+    - Index: index.md
+    - About: about.md    
 
 # Theme configuration
 theme:
-  name: 'material'
+  name: 'material'  
+  language: 'en'
+  favicon: 'assets/images/favicon.ico'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  palette:
+    primary: 'red'
+    accent: 'light blue'
 
 # Copyright
 copyright: 'Apache License, Version 2.0'
