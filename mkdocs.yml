@@ -6,8 +6,7 @@ site_url: https://beeping.io
 
 # Page tree
 nav:
-    - Index: index.md
-    - About: about.md    
+    - Welcome: index.md       
 
 # Theme configuration
 theme:
@@ -18,17 +17,15 @@ theme:
   logo: 'assets/images/brand.png'
   feature:
     tabs: true
-  font:
-    text: 'Graphik-Regular'
-    code: 'Graphik-Light'
+  font: false    
   palette:
     primary: 'red'
     accent: 'light blue'
 
+# Customization    
 extra_css:
   - 'assets/stylesheets/beeping.css'
   - 'assets/fonts/beeping/graphik/graphik.css'
-
 
 # Customization
 extra:
