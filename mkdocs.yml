@@ -4,6 +4,10 @@ site_description: The landing page for Beeping documentation.
 site_author: Beeping LLC
 site_url: https://beeping.io
 
+# Page tree
 nav:
   - Home: index.md
   - About: about.md
+
+# Copyright
+copyright: 'Apache License, Version 2.0'
