@@ -6,7 +6,40 @@ site_url: https://beeping.io
 
 # Page tree
 nav:
-    - Welcome: index.md       
+  - Beeping: index.md
+  - How it works: how-it-works.md
+  - Use cases: use-cases.md
+  - Tests: tests.md
+  - Naming: naming.md
+  - License: license.md
+  - Components:
+    - Overview: components/index.md
+    - BeepBox: components/beepbox.md
+    - iPhone SDK: components/sdk-iphone.md
+    - Android SDK: components/sdk-android.md
+    - Core System: components/core.md
+  - Tutorials:
+    - Overview: tutorials/index.md
+    - Your first Beep: tutorials/beeps.md
+    - Your first iPhone app: tutorials/iphone-hello.md
+    - Your first Android app: tutorials/android-hello.md
+  - Community:
+    - Overview: community/index.md
+    - Documentation: community/docs.md
+    - Libraries:
+      - BeepBox: community/beepbox.md
+      - Core System: community/core.md
+    - SDK:
+      - iPhone: community/sdk-iphone.md
+      - Android: community/sdk-android.md      
+  - Projects:
+    - Overview: projects/index.md
+    - Projects: projects/projects.md
+    - Improvements: projects/improvements.md
+    - Ideas: projects/ideas.md
+    - Issues: projects/issues.md    
+  - Donations:
+    - Overview: donations/index.md
 
 # Theme configuration
 theme:
@@ -42,8 +75,6 @@ edit_uri: ""
 plugins:
   - search
   - git-revision-date-localized
-  - minify:
-      minify_html: true
 
 # Extensions
 markdown_extensions:
