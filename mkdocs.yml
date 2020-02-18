@@ -15,8 +15,8 @@ nav:
   - Components:
     - Overview: components/index.md
     - BeepBox: components/beepbox.md
-    - iPhone SDK: components/sdk-iphone.md
-    - Android SDK: components/sdk-android.md
+    - SDK-iPhone: components/sdk-iphone.md
+    - SDK-Android: components/sdk-android.md
     - Core System: components/core.md
   - Tutorials:
     - Overview: tutorials/index.md
@@ -24,14 +24,12 @@ nav:
     - Your first iPhone app: tutorials/iphone-hello.md
     - Your first Android app: tutorials/android-hello.md
   - Community:
-    - Overview: community/index.md
+    - Welcome: community/index.md
     - Documentation: community/docs.md
-    - Libraries:
-      - BeepBox: community/beepbox.md
-      - Core System: community/core.md
-    - SDK:
-      - iPhone: community/sdk-iphone.md
-      - Android: community/sdk-android.md      
+    - BeepBox: community/beepbox.md    
+    - SDK-iPhone: community/sdk-iphone.md
+    - SDK-Android: community/sdk-android.md
+    - Core System: community/core.md
   - Projects:
     - Overview: projects/index.md
     - Projects: projects/projects.md
