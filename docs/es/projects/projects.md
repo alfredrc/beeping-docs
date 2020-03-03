@@ -1,6 +1,6 @@
-# How it works
+# Projects
 
-!!! Note "How it works"
+!!! Note "Projects"
     **Sshhhhh...** we are working on this page.
     **Meanwhile**, you can think about how to solve this problem.
 
