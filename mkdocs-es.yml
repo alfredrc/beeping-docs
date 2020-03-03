@@ -1,0 +1,105 @@
+# Project information
+site_name: Documentation de Beeping
+site_description: Beeping - Documentación oficial.
+site_author: Beeping LLC
+site_url: https://beeping.land
+site_dir: 'site/es'
+docs_dir: 'docs/es'
+
+# Page tree
+nav:
+  - Beeping: index.md
+  - Como funciona: how-it-works.md
+  - Casos de uso: use-cases.md
+  - Pruebas: tests.md
+  - Glosario: naming.md
+  - Licencia: license.md
+  - Componentes:
+    - Introducción: components/index.md
+    - BeepBox: components/beepbox.md
+    - SDK-iPhone: components/sdk-iphone.md
+    - SDK-Android: components/sdk-android.md
+    - Core System: components/core.md
+  - Tutoriales:
+    - Introducción: tutorials/index.md
+    - Tu primer Beep: tutorials/beeps.md
+    - Tu primera app de iPhone : tutorials/iphone-hello.md
+    - Tu primera app de Android: tutorials/android-hello.md
+  - Communidad:
+    - Bienvenido: community/index.md
+    - Documentación: community/docs.md
+    - BeepBox: community/beepbox.md    
+    - SDK-iPhone: community/sdk-iphone.md
+    - SDK-Android: community/sdk-android.md
+    - Core System: community/core.md
+  - Proyectos:
+    - Introducción: projects/index.md
+    - Proyectos: projects/projects.md
+    - Mejoras: projects/improvements.md
+    - Ideas: projects/ideas.md
+    - Issues: projects/issues.md    
+  - Donaciones:
+    - Introducción: donations/index.md
+
+# Theme configuration
+theme:
+  name: 'material'  
+  custom_dir: 'theme'
+  language: 'es'
+  favicon: '/assets/images/favicon.ico'
+  logo: '/assets/images/brand.png'
+  feature:
+    tabs: true
+  font: false    
+  palette:
+    primary: 'red'
+    accent: 'light blue'
+
+# Customization    
+extra_css:
+  - '/assets/stylesheets/beeping.css'
+  - '/assets/fonts/beeping/graphik/graphik.css'
+
+# Customization
+extra:
+  social:    
+    - type: github-alt
+      link: https://github.com/beeping-io    
+
+# Repository
+repo_name: beeping-docs
+repo_url: https://github.com/beeping-io/beeping-docs
+edit_uri: ""
+
+# Plugins
+plugins:
+  - search
+  - git-revision-date-localized
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+  - meta
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - toc:
+      permalink: true
+
+# Copyright
+copyright: 'Apache License, Version 2.0'

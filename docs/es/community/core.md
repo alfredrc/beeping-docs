@@ -1,6 +1,6 @@
-# Naming
+# Core System
 
-!!! Note "Naming"
+!!! Note "Core System"
     **Sshhhhh...** we are working on this page.
     **Meanwhile**, you can think about how to solve this problem.
 
