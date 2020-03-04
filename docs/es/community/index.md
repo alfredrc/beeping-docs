@@ -1,14 +1,15 @@
-# Welcome to the Beeping community
+# Bienvenido a la comunidad de Beeping
 
-We're open source and would love to hear from you! Below you'll find ways to get involved in the Beeping community as well as links to resources that can help answer your questions.
+
+¡**Beeping** es una tecnología Open Source y nos encantaría saber de ti! A continuación encontrarás formas para involucrarte en la nuestra comunidad, así como enlaces a recursos que pueden ayudar a responder sus preguntas.
 
 ## GitHub
 
-**Tell us what you want to see**
+**Dinos que necesitas**
 
-An easy way to send feedback is to "thumbs up" issues important to you on GitHub.
+Una manera fácil de enviar comentarios es escribir cuestiones importantes para ti en GitHub.
 
-Here you have the list of components from which you can send us bugs, improvements, comments ...
+Aquí tienes la lista de componentes desde la que puedes enviarnos errores, mejoras, comentarios ...
 
 * [Beeping Docs](https://github.com/beeping-io/beeping-docs/issues)
 * [Beepbox](https://github.com/beeping-io/beepbox/issues)
@@ -20,11 +21,11 @@ Here you have the list of components from which you can send us bugs, improvemen
 
 **Beeping Community Slack**
 
-Connect and work through problems with a group of knowledgeable Beeping people.
+Conéctate y trabaja a través de conceptos relacionados la tecnología dentro de un grupo de personas conocedoras de Beeping.
 
-Please, [click here to join to Beeping Community Slack](https://beepingworkspace.slack.com/)
+Puedes, [hacer click aquí para unirte a nuestra comunidad de Slack](https://join.slack.com/t/beepingworkspace/shared_invite/enQtOTY5NDc1ODAxNzYzLTEzNmFmZjNhNDdjOTRjZDUzN2JmNmVjZWVjMGU2Yjc4MjgxMTUwNWM1Y2E2ZjMyY2NlYWUzNjQxZDZlNWQ3NTE)
 
 ## Quote
 
-!!! quote "Leonardo Da Vinci"
-    You cannot own more government, or less, than your own.
+!!! quote "Nelson Mandela"
+    La mayor gloria en la vida no radica en no caer nunca, sino en levantarse cada vez que caemos.

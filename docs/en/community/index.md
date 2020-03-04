@@ -22,9 +22,9 @@ Here you have the list of components from which you can send us bugs, improvemen
 
 Connect and work through problems with a group of knowledgeable Beeping people.
 
-Please, [click here to join to Beeping Community Slack](https://beepingworkspace.slack.com/)
+Please, [click here to join to Beeping Community Slack](https://join.slack.com/t/beepingworkspace/shared_invite/enQtOTY5NDc1ODAxNzYzLTEzNmFmZjNhNDdjOTRjZDUzN2JmNmVjZWVjMGU2Yjc4MjgxMTUwNWM1Y2E2ZjMyY2NlYWUzNjQxZDZlNWQ3NTE)
 
 ## Quote
 
-!!! quote "Leonardo Da Vinci"
-    You cannot own more government, or less, than your own.
+!!! quote "Nelson Mandela"
+    The greatest glory in living lies not in never falling, but in rising every time we fall.
