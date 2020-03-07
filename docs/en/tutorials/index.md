@@ -1,10 +1,38 @@
-# Overview
+# Tutorials
 
-!!! Note "Overview"
-    **Sshhhhh...** we are working on this page.
-    **Meanwhile**, you can think about how to solve this problem.
+## Languages
 
-[![PNP Problem](/assets/images/src/pnp.jpg)](/assets/images/src/pnp.jpg)
+> This page can be read in the following languages:
+>  
+> [English](https://en.beeping.land/tutorials/) | [Spanish](https://es.beeping.land/tutorials/)
 
-!!! quote "Mark Twain"
-    The two most important days in your life are the day you were born and the day you find out why.
+## Introduction
+
+**Beeping** is available for different platforms.
+
+## Encoding
+
+For now we can generate **Beeps** ( ultrasound ) in the following Operating Systems:
+
+- MacOS
+
+## Decoding
+
+For now we can decrypt the content of a beep from the following devices:
+
+- iPhone ( Objective C )
+
+- Android
+
+## Step by Step
+
+In this section we leave all the tutorials that we have available so that you can use this protocol on all possible devices.
+
+## NEXT
+
+With the contribution of all the engineers involved in this **Open Source** project, we will be able to grow and support new devices. On the other hand, from the Community section we can express the needs that the scientific world has to evolve the protocol in a scalable way according to the needs that may arise.
+
+## Quote
+
+!!! quote "Frank Lloyd Wright"
+    If it keeps up, man will atrophy all his limbs but the push-button finger.
