@@ -22,7 +22,7 @@ nav:
     - Core System: components/core.md
   - Tutorials:
     - Overview: tutorials/index.md
-    - Your first Beep: tutorials/beeps.md
+    - Create a Beep: tutorials/beeps.md
     - Your first iPhone app: tutorials/iphone-hello.md
     - Your first Android app: tutorials/android-hello.md
   - Community:
