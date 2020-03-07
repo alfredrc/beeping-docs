@@ -16,7 +16,7 @@ Then we leave the link of the repository of this component:
 
 * [iPhone SDK](https://github.com/beeping-io/sdk-iphone-objective-c)
 
-## Compilar
+## Compile
 
 The **iPhone SDK** source code can be compiled in the following Operating Systems:
 
@@ -46,7 +46,7 @@ $ cd sdk-iphone-objective-c
 $ sh build.sh
 ```
 
-- You can find in framework in the directory ./build/Universal
+- You can find the framework in the directory ./build/Universal
 
 ## Links
 
@@ -60,4 +60,3 @@ Here you have a series of links related to iPhone SDK:
 
 !!! quote "Plato"
     The greatest wealth is to live content with little.
-
