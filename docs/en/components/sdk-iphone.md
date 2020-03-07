@@ -1,10 +1,63 @@
-# iPhone SDK
+# SDK de iPhone
 
-!!! Note "iPhone SDK"
-    **Sshhhhh...** we are working on this page.
-    **Meanwhile**, you can think about how to solve this problem.
+## Languages
 
-[![PNP Problem](/assets/images/src/pnp.jpg)](/assets/images/src/pnp.jpg)
+> This page can be read in the following languages:
+>  
+> [English](https://en.beeping.land/componets/sdk-iphone/) | [Spanish](https://es.beeping.land/componets/sdk-iphone/)
 
-!!! quote "Mark Twain"
-    The two most important days in your life are the day you were born and the day you find out why.
+## Introducción
+
+**iPhone SDK** is the **Beeping** framework that aims to decrypt the data that a **Beep** sends us from our application.
+
+## Repository
+
+Then we leave the link of the repository of this component:
+
+* [iPhone SDK](https://github.com/beeping-io/sdk-iphone-objective-c)
+
+## Compilar
+
+The **iPhone SDK** source code can be compiled in the following Operating Systems:
+
+- MacOS
+
+To compile the code we must follow the following steps:
+
+- [Fork the repository](https://github.com/beeping-io/sdk-iphone-objective-c)
+
+[![Fork](/assets/images/shoots/iphonesdk-fork.jpg)](/assets/images/shoots/iphonesdk-fork.jpg)
+
+-  Make a clone of the repository
+
+``` bash
+$ git clone https://github.com/[YOUR_GIT_USERNAME]/sdk-iphone-objective-c
+```
+
+- Enter the SDK directory
+
+``` bash
+$ cd sdk-iphone-objective-c
+```
+
+- Compile the SDK
+
+``` bash
+$ sh build.sh
+```
+
+- You can find in framework in the directory ./build/Universal
+
+## Links
+
+Here you have a series of links related to iPhone SDK:
+
+- [Tutorial: iPhone-Hello](/tutorials/iphone-hello/)
+
+- [Compile "Core System" iPhone SDK](/components/core/)
+
+## Quote
+
+!!! quote "Plato"
+    The greatest wealth is to live content with little.
+
