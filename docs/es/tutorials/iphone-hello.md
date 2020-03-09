@@ -4,11 +4,11 @@
 
 > Esta página se puede leer en los siguiente idiomas:
 >  
-> [Inglés](https://en.beeping.land/tutorials/iphone-hello/) | [Español](https://es.beeping.land/tutorials/iphone-hello/)
+> [Inglés](https://docs.beeping.io/tutorials/iphone-hello/) | [Español](https://docs-es.beeping.io/tutorials/iphone-hello/)
 
 ## Objetivo
 
-El Objetivo de este tutorial es crear tu primera App de iPhone integrando la tecnología de **Beeping**. 
+El Objetivo de este tutorial es crear tu primera App de iPhone integrando la tecnología de **Beeping**.
 
 Para ello seguiremos los siguientes pasos:
 
@@ -25,7 +25,7 @@ Para ello seguiremos los siguientes pasos:
 ## Descargar la SDK
 
 A continuación os dejamos los pasos que debes seguir para crear vuestra primera **App**.
-    
+
 Lo primero que debemos hacer es descargar el SDK de iPhone.
 
 [Hacer click aquí para descargar el framework](https://github.com/beeping-io/sdk-iphone-objective-c/releases/download/1.0.0/Beeping.framework-objective-c.zip)

@@ -4,7 +4,7 @@
 
 > This page can be read in the following languages:
 >  
-> [English](https://en.beeping.land/naming) | [Spanish](https://es.beeping.land/naming)
+> [English](https://docs.beeping.land/naming) | [Spanish](https://docs-es.beeping.land/naming)
 
 ## Introduction
 

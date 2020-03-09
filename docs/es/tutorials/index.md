@@ -4,7 +4,7 @@
 
 > Esta página se puede leer en los siguiente idiomas:
 >  
-> [Inglés](https://en.beeping.land/tutorials/) | [Español](https://es.beeping.land/tutorials/)
+> [Inglés](https://docs.beeping.io/tutorials/) | [Español](https://docs-es.beeping.io/tutorials/)
 
 ## Introducción
 

@@ -4,7 +4,7 @@
 
 > This page can be read in the following languages:
 >  
-> [English](https://en.beeping.land/componets/sdk-iphone/) | [Spanish](https://es.beeping.land/componets/sdk-iphone/)
+> [English](https://docs.beeping.land/componets/sdk-iphone/) | [Spanish](https://docs-es.beeping.land/componets/sdk-iphone/)
 
 ## Introducción
 
