@@ -29,7 +29,7 @@ Puedes acceder a todos los estos componentes desde nuestro [repositorio principa
 
 ## Documentación
 
-Desde este link - [Documentación oficial](https://es.beeping.io) - puedes acceder a toda la documentación oficial de **Beeping**.
+Desde este link - [Documentación oficial](https://docs-es.beeping.io) - puedes acceder a toda la documentación oficial de **Beeping**.
 
 ## Contributors
 
@@ -45,7 +45,7 @@ En breve publicaremos de qué forma puedes contribuir para que este proyecto sig
 
 La documentación oficial de **Beeping** se ha generado con la herramienta [Mkdocs](https://www.mkdocs.org/).
 
-Por favor, [lee este documento](https://es.beeping.io/community/docs/) para instalar esta documentación en tu ordenador.
+Por favor, [lee este documento](https://docs-es.beeping.io/community/docs/) para instalar esta documentación en tu ordenador.
 
 Esta es una de las **muchas maneras de ayudar** al crecimiento del proyecto.
 
