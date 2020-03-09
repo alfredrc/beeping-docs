@@ -23,8 +23,8 @@ nav:
   - Tutoriales:
     - Introducción: tutorials/index.md
     - Crear un Beep: tutorials/beeps.md
-    - Tu primera app de iPhone : tutorials/iphone-hello.md
-    - Tu primera app de Android: tutorials/android-hello.md
+    - App de iPhone : tutorials/iphone-hello.md
+    - App de Android: tutorials/android-hello.md
   - Communidad:
     - Bienvenido: community/index.md
     - Documentación: community/docs.md

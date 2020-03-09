@@ -99,10 +99,10 @@ Aquí te dejamos una serie de links relacionados con BeepBox:
 
 - [Components: BeepBox](/components/beepbox/)
 
-- [Compilar "Core System" de Beepbox](/components/core/)
+- [Compilar "Core System" para Beepbox](/components/core/)
 
 ## Frase
 
 !!! quote "Tim Berners-Lee"
     La Web como la imaginé, todavía no la hemos visto. El futuro sigue siendo mucho más grande que el pasado.
-    The Web as I envisaged it, we have not seen it yet. The future is still so much bigger than the past.
+    
