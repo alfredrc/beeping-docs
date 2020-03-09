@@ -4,7 +4,7 @@
 
 > This page can be read in the following languages:
 >  
-> [English](https://en.beeping.land/use-cases) | [Spanish](https://es.beeping.land/use-cases)
+> [English](https://docs.beeping.land/use-cases) | [Spanish](https://docs-es.beeping.land/use-cases)
 
 ## Introduction
 

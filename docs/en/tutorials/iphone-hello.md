@@ -1,5 +1,11 @@
 # iPhone App
 
+## Languages
+
+> This page can be read in the following languages:
+>  
+> [English](https://docs.beeping.land/tutorials/iphone-hello/) | [Spanish](https://docs-es.beeping.land/tutorials/iphone-hello/)
+
 ## Objective
 
 The objective of this tutorial is to create your first iPhone App integrating **Beeping** technology.

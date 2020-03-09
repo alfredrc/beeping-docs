@@ -4,7 +4,7 @@
 
 > This page can be read in the following languages:
 >  
-> [English](https://en.beeping.land/componets/) | [Spanish](https://es.beeping.land/componets/)
+> [English](https://docs.beeping.land/componets/) | [Spanish](https://docs-es.beeping.land/componets/)
 
 ## Introduction
 
