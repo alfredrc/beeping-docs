@@ -30,7 +30,7 @@ You can access all these components from our [main repository](https://github.co
 
 ## Documentation
 
-From this link - [Official Documentation](https://en.beeping.land) - you can access all the official **Beeping** documentation.
+From this link - [Official Documentation](https://docs.beeping.io) - you can access all the official **Beeping** documentation.
 
 ## Contributors
 
@@ -44,7 +44,7 @@ We **believe** in the community.
 
 The official **Beeping** documentation has been generated with the [Mkdocs](https://www.mkdocs.org/) tool.
 
-Please, [read this document](https://en.beeping.land/community/docs/) to install this documentation on your computer.
+Please, [read this document](https://docs.beeping.io/community/docs/) to install this documentation on your computer.
 
 This is one of the **many ways to help** the project grow.
 
