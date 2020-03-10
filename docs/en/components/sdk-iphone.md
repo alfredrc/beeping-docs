@@ -1,4 +1,4 @@
-# SDK de iPhone
+# iPhone SDK
 
 ## Languages
 
@@ -6,7 +6,7 @@
 >  
 > [English](https://docs.beeping.land/componets/sdk-iphone/) | [Spanish](https://docs-es.beeping.land/componets/sdk-iphone/)
 
-## Introducción
+## Introduction
 
 **iPhone SDK** is the **Beeping** framework that aims to decrypt the data that a **Beep** sends us from our application.
 
