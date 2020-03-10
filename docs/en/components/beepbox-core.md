@@ -22,6 +22,8 @@ To compile this library you must follow the following steps:
 
 - [Fork the repository](https://github.com/beeping-io/beeping-core)
 
+[![Fork](/assets/images/shoots/core-fork.jpg)](/assets/images/shoots/core-fork.jpg)
+
 - Make a clone of the repository
 
 ``` bash

@@ -23,6 +23,7 @@ nav:
       - Core - Beeping: components/core.md
       - Core - BeepBox: components/beepbox-core.md
       - Core - iPhone SDK: components/sdk-iphone-core.md
+      - Core - Android SDK: components/sdk-android-core.md
   - Tutorials:
     - Overview: tutorials/index.md
     - Create a Beep: tutorials/beeps.md

@@ -27,7 +27,7 @@ Dentro de este repositorio veréis que hay una calsificación por componente al 
 A continuación os dejamos una lista de los componentes que se ven afectados por el **Core System**:
 
 * [Beepbox](https://github.com/beeping-io/beepbox)
-* [iPhone SDK](https://github.com/beeping-io/sdk-iphone-objective-c)
+* [iPhone SDK](https://github.com/beeping-io/sdk-iphone)
 * [Android SDK](https://github.com/beeping-io/sdk-android)
 
 ## Frase

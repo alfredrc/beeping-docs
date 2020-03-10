@@ -14,7 +14,7 @@
 
 A continuación os dejamos el link del repositorio de este componente:
 
-* [iPhone SDK](https://github.com/beeping-io/sdk-iphone-objective-c)
+* [iPhone SDK](https://github.com/beeping-io/sdk-iphone)
 
 ## Compilar
 
@@ -24,20 +24,20 @@ El código fuente del **SDK de iPhone** se puede compilar en los siguientes Sist
 
 Para compilar el código debemos seguir los siguientes pasos:
 
-- [Hacer un fork del repositorio](https://github.com/beeping-io/sdk-iphone-objective-c)
+- [Hacer un fork del repositorio](https://github.com/beeping-io/sdk-iphone)
 
 [![Fork](/assets/images/shoots/iphonesdk-fork.jpg)](/assets/images/shoots/iphonesdk-fork.jpg)
 
 - Hacer un clone del repositorio
 
 ``` bash
-$ git clone https://github.com/[YOUR_GIT_USERNAME]/sdk-iphone-objective-c
+$ git clone https://github.com/[YOUR_GIT_USERNAME]/sdk-iphone
 ```
 
 - Entrar en el directorio de la sdk de iPhone
 
 ``` bash
-$ cd sdk-iphone-objective-c
+$ cd sdk-iphone
 ```
 
 - Compilar la SDK
