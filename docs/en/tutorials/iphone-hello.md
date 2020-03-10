@@ -28,7 +28,7 @@ Here are the steps you must follow to create your first **App**.
     
 The first thing we should do is download the iPhone SDK.
 
-[Click here to download the framework](https://github.com/beeping-io/sdk-iphone-objective-c/releases/download/1.0.0/Beeping.framework-objective-c.zip)
+[Click here to download the framework](https://github.com/beeping-io/sdk-iphone/releases/download/1.0.0/Beeping.framework.zip)
 
 Once downloaded we unzip it and leave the **beeping-framework** file accessible for later.
 

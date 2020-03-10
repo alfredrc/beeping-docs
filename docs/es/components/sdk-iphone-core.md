@@ -22,6 +22,8 @@ Para compilar esta librería debéis seguir los siguientes pasos:
 
 - [Hacer un fork del repositorio](https://github.com/beeping-io/beeping-core)
 
+[![Fork](/assets/images/shoots/core-fork.jpg)](/assets/images/shoots/core-fork.jpg)
+
 - Hacer un clone del repositorio
 
 ``` bash
