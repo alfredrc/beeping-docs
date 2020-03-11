@@ -4,7 +4,7 @@
 
 > This page can be read in the following languages:
 >  
-> [English](https://docs.beeping.land/tutorials/iphone-hello/) | [Spanish](https://docs-es.beeping.land/tutorials/iphone-hello/)
+> [English](https://docs.beeping.io/tutorials/iphone-hello/) | [Spanish](https://docs-es.beeping.io/tutorials/iphone-hello/)
 
 ## Objective
 

@@ -4,7 +4,7 @@
 
 > This page can be read in the following languages:
 >  
-> [English](https://docs.beeping.land/componets/beepbox/) | [Spanish](https://docs-es.beeping.land/componets/beepbox/)
+> [English](https://docs.beeping.io/componets/beepbox/) | [Spanish](https://docs-es.beeping.io/componets/beepbox/)
 
 ## Introduction
 

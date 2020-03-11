@@ -4,7 +4,7 @@
 
 > This page can be read in the following languages:
 >  
-> [English](https://docs.beeping.land/componets/sdk-iphone-core/) | [Spanish](https://docs-es.beeping.land/componets/sdk-iphone-core/)
+> [English](https://docs.beeping.io/componets/sdk-iphone-core/) | [Spanish](https://docs-es.beeping.io/componets/sdk-iphone-core/)
 
 ## Compile ( MacOs )
 
