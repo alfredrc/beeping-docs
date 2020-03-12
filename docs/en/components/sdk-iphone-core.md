@@ -33,7 +33,7 @@ $ git clone https://github.com/[YOUR_GIT_USERNAME]/beeping-core
 - Enter the beepbox directory
 
 ``` bash
-$ cd beeping-core/sdk
+$ cd beeping-core/iphone
 $ make clean
 $ make
 ```
