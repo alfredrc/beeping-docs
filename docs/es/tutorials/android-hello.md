@@ -275,7 +275,7 @@ public class MainActivity extends AppCompatActivity
 !!! info "Microphone"
 
     Para poder escuchar el ultrasonido y decodificar su contenido, 
-    la SDK necesita acceso al micrófono par apoder oir lo que le
+    la SDK necesita acceso al micrófono para poder oir lo que le
     estamos enviando.
 
 - Le decimos a Beeping que deje de escuchar, una vez hemos leído el contenido del beep
@@ -332,24 +332,34 @@ Para probar nuestra aplicación debemos tener a mano dos elementos:
 
 - Nuestro fichero **ultrasound.wav** que es nuestro **beep** que contiene el valor **qa020**
 
-- La aplicación que acbamos de crear
+- La aplicación que acabamos de crear
 
-Lo primero que debemos hacer es ejecutar nuestra aplicación de Android.
+Procedemos a seguir los siguientes pasos:
 
-************************************************
+- Abrimos el Logcat de Android Studio
 
+[![9](/assets/images/shoots/tutorials/android/9.png)](/assets/images/shoots/tutorials/android/9.png)
 
-Si nos fijamos en nuestra consola veremos una nueva línea que nos indica que la aplicación está en modo de escucha:
+- Seleccionamos nuestro dispositivo Android
 
-``` bash hl_lines="7"
+[![10](/assets/images/shoots/tutorials/android/10.png)](/assets/images/shoots/tutorials/android/10.png)
 
-2020-03-07 14:13:28.180636+0100 beeping-hello[3865:16310305] BeepingCoreLib version 0.9.7 [31052017]
-2020-03-07 14:13:28.180767+0100 beeping-hello[3865:16310305] Configuration NONAUDIBLE
-2020-03-07 14:13:28.181241+0100 beeping-hello[3865:16310305] C++ DecoderNonAudibleMultiTone
-2020-03-07 14:13:28.422437+0100 beeping-hello[3865:16310525] [plugin] AddInstanceForFactory: No factory registered for id <CFUUID 0x600002041680> F8BB1C28-BAE8-11D6-9C31-00039315CD46
-2020-03-07 14:13:28.464858+0100 beeping-hello[3865:16310305] BeepingCore.framework version 1.0.4 [20012017]
+- Añadimos un filtro a Logcat para ver solo las salidas de texto de Beeping y su SDK
 
-2020-03-07 14:43:01.821260+0100 beeping-hello[4001:16327281] [Beeping [info]] Listening ...
+[![11](/assets/images/shoots/tutorials/android/11.png)](/assets/images/shoots/tutorials/android/11.png)
+
+- Arrancamos nuestra aplicación de Android en nuestro dispositivo
+
+Si nos fijamos en nuestra consola veremos las siguientes líneas que nos indican que beeping está en modo escucha:
+
+``` bash
+
+2020-03-11 16:37:59.676 8559-8559/io.beeping.beeping_hello D/BEEPING:SDK: CORE
+2020-03-11 16:37:59.677 8559-8559/io.beeping.beeping_hello D/BEEPING:SDK: AUDIO-MANAGER
+2020-03-11 16:37:59.682 8559-8559/io.beeping.beeping_hello D/BEEPING:SDK: ALLOC
+2020-03-11 16:37:59.684 8559-8559/io.beeping.beeping_hello D/BEEPING:SDK: CONFIGURE
+2020-03-11 16:38:00.190 8559-8559/io.beeping.beeping_hello D/BEEPING:SDK: LISTENING
+2020-03-11 16:38:00.353 8559-8559/io.beeping.beeping_hello D/BEEPING:SDK: AUDIOFOCUS_LOSS_TRANSIENT_CAN_DUCK
 
 ```
 
@@ -357,39 +367,21 @@ Ahora ejecutamos nuestro **beep** y la magia se convierte en realidad.
 
 Fijaros lo que ha pasado en nuestra consola:
 
-``` bash hl_lines="1 2 21 23 24"
+``` bash hl_lines="1 3 4 6"
 
-2020-03-07 14:44:15.199810+0100 beeping-hello[4023:16328812] BEGIN TOKEN FOUND!
-2020-03-07 14:44:15.199971+0100 beeping-hello[4023:16328812] [Beeping [info]] BEEP_TOKEN_END_OK
-2020-03-07 14:44:15.304691+0100 beeping-hello[4023:16328812] Token found! 26
-2020-03-07 14:44:15.408884+0100 beeping-hello[4023:16328812] Token found! 10
-2020-03-07 14:44:15.513293+0100 beeping-hello[4023:16328812] Token found! 0
-2020-03-07 14:44:15.618080+0100 beeping-hello[4023:16328812] Token found! 2
-2020-03-07 14:44:15.722645+0100 beeping-hello[4023:16328812] Token found! 0
-2020-03-07 14:44:15.826769+0100 beeping-hello[4023:16328812] Token found! 0
-2020-03-07 14:44:15.931384+0100 beeping-hello[4023:16328812] Token found! 0
-2020-03-07 14:44:16.036250+0100 beeping-hello[4023:16328812] Token found! 0
-2020-03-07 14:44:16.140386+0100 beeping-hello[4023:16328812] Token found! 5
-2020-03-07 14:44:16.244719+0100 beeping-hello[4023:16328812] Token found! 11
-2020-03-07 14:44:16.349270+0100 beeping-hello[4023:16328812] Token found! 25
-2020-03-07 14:44:16.454256+0100 beeping-hello[4023:16328812] Token found! 29
-2020-03-07 14:44:16.558209+0100 beeping-hello[4023:16328812] Token found! 5
-2020-03-07 14:44:16.662571+0100 beeping-hello[4023:16328812] Token found! 0
-2020-03-07 14:44:16.767269+0100 beeping-hello[4023:16328812] Token found! 20
-2020-03-07 14:44:16.871958+0100 beeping-hello[4023:16328812] Token found! 26
-2020-03-07 14:44:16.976103+0100 beeping-hello[4023:16328812] Token found! 16
-2020-03-07 14:44:17.080627+0100 beeping-hello[4023:16328812] Token found! 19
-2020-03-07 14:44:17.092184+0100 beeping-hello[4023:16328812] END DECODING OK! qa0200005
-2020-03-07 14:44:17.092360+0100 beeping-hello[4023:16328812] [Beeping [info]] BEEP_TOKEN_END_OK
-2020-03-07 14:44:17.092474+0100 beeping-hello[4023:16328812] The Beep data is: qa020
-2020-03-07 14:44:17.092549+0100 beeping-hello[4023:16328812] [Beeping [info]] Stopped
+2020-03-11 16:38:23.505 8559-8591/io.beeping.beeping_hello D/BEEPING:SDK: BeepingCallback
+2020-03-11 16:38:25.404 8559-8591/io.beeping.beeping_hello D/BEEPING:SDK: BeepingCallback
+2020-03-11 16:38:25.405 8559-8591/io.beeping.beeping_hello D/BEEPING:SDK: BC_TOKEN_END
+2020-03-11 16:38:25.406 8559-8559/io.beeping.beeping_hello I/System.out: BEEPING:SDK: The BeepId is:qa020
+2020-03-11 16:38:25.406 8559-8559/io.beeping.beeping_hello D/BEEPING:SDK: DEALLOC
+2020-03-11 16:38:25.656 8559-8559/io.beeping.beeping_hello D/BEEPING:SDK: stopBeepingListen
 
 ```
 
-Si os fijáis bien en la consola, la primera línea nos informa de que **Beeping** ha detectado un ulltrasonido, con información. 
+Si os fijáis bien en la consola, las primeras líneas nos informan de que **Beeping** ha detectado un ulltrasonido, con información.
 
-En la segunda línea se nos indica que el formato del **beep** es 
-correcto, y las líneas siguientes lo que hacen es leer el contenido y desenciptan la información. 
+En la tercera línea se nos indica que el formato del **beep** es 
+correcto, y las líneas siguientes lo que hacen es leer el contenido y desenciptan la información.
 
 Una vez finalizo el proceso, se nos informa que la desencriptación ha funcionado correctamente
 e internamente lo que hace ls SDK es llamar a la función que hemos creado y que por lo tanto recibe el callback.
@@ -401,38 +393,40 @@ Una vez hemos mostrado la información por la consola lo que hemos hecho es para
 
 ## API
 
-A continuación os mostramos el API del **framework de Beeping** para iPhone:
+A continuación os mostramos el API del **framework de Beeping** para Android:
 
 ### Object
 
 | Name       | Object    | Type   |
 | :--------- | :------:  | :------: |
-| **Beeping**    | Beeping * | Pointer  |
+| **Beeping**    | BeepingCore | BeepingCore  |
 
 ### Methods
 
 | Object       | Method    | Return | Description |
 | :--------- | :------:  | :------: | :------: |
-| **Beeping**    | [Beeping instance] | instance  | Object creation  |
-| **Beeping**    | listen() | void  | Ready to listen beeps |
-| **Beeping**    | stop() | void  | Stop listening beeps |
+| **BeepingCore**    | new (Context) | instance  | Object creation  |
+| **BeepingCore**    | startBeepingListen() | void  | Ready to listen beeps |
+| **BeepingCore**    | stopBeepingListen() | void  | Stop listening beeps |
 
 ### Protocol
 
 | Object       | Type  | Callback | Return |
 | :---------: | :------:  | :------: | :------: |
-| **Beeping**    | beepingDelegate | beepIdWith:(NSString *)beep_id  | void  |
+| **BeepingCore**    | beepingDelegate | beepIdWith:(String beepId) | void  |
 
 ## Links
 
-Aquí te dejamos una serie de links relacionados con la SDK de iPhone:
+Aquí te dejamos una serie de links relacionados con la SDK de Android:
 
-- [Components: iPhone SDK](/components/sdk-iphone/)
+- [Components: Android SDK](/components/sdk-android/)
 
-- [Compilar "Core System" para el iPhone SDK](/components/core/)
+- [Compilar "Core System" para el Android SDK](/components/core/)
+
+- [Ejemplo de un app en Android](https://github.com/beeping-io/beeping-examples)
 
 ## Frase
 
-!!! quote "Ralph Waldo Emerson"
-    Un gran hombre siempre está dispuesto a ser pequeño.
+!!! quote "Theodore Roosevelt"
+    Haz lo que puedas, con lo que tienes, dónde estás.
 
