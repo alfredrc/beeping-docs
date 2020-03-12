@@ -33,10 +33,11 @@ $ git clone https://github.com/[YOUR_GIT_USERNAME]/beeping-core
 - Entrar en el directorio sdk
 
 ``` bash
-$ cd beeping-core/sdk
+$ cd beeping-core/iphone
 $ make clean
 $ make
 ```
+
 - En este punto ya tienes compilada la librería **libBeepingCoreUniversal.a**
 
 ## Instalación ( MacOs )
