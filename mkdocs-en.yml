@@ -44,6 +44,8 @@ nav:
     - Issues: projects/issues.md    
   - Donations:
     - Overview: donations/index.md
+  - Contact:
+    - Be in touch: contact/index.md
 
 # Theme configuration
 theme:

@@ -16,7 +16,7 @@ Un ultrasonido **es una señal de audio** que está en frecuencias altas, que el
 
 ## Beep
 
-Un Beep es **un ultrasonido que porta datos embebidos**, para que otros dispotivos puedan descifrar la información que llevan en su interior.
+Un Beep es **un ultrasonido que transporta datos embebidos**, para que otros dispotivos puedan descifrar la información que lleva en su interior.
 
 ## Frase
 
