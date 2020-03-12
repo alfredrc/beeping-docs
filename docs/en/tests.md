@@ -4,7 +4,7 @@
 
 > This page can be read in the following languages:
 >  
-> [English](https://docs.beeping.land/tests) | [Spanish](https://docs-es.beeping.land/tests)
+> [English](https://docs.beeping.io/tests) | [Spanish](https://docs-es.beeping.io/tests)
 
 ## Introduction
 

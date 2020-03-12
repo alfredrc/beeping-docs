@@ -294,7 +294,7 @@ Lo que os están diciendo estas líneas es que el objeto de Beeping se ha inicia
 !!! info "Microphone"
 
     Para poder escuchar el ultrasonido y decodificar su contenido, 
-    la SDK necesita acceso al micrófono par apoder oir lo que le
+    la SDK necesita acceso al micrófono para poder oir lo que le
     estamos enviando.
 
 - Le decimos a Beeping que se ponga a escuchar
@@ -416,7 +416,7 @@ Para probar nuestra aplicación debemos tener a mano dos elementos:
 
 - Nuestro fichero **ultrasound.wav** que es nuestro **beep** que contiene el valor **qa020**
 
-- La aplicación que acbamos de crear
+- La aplicación que acabamos de crear
 
 Lo primero que debemos hacer es ejecutar nuestra aplicación de iPhone.
 
@@ -511,6 +511,8 @@ Aquí te dejamos una serie de links relacionados con la SDK de iPhone:
 - [Components: iPhone SDK](/components/sdk-iphone/)
 
 - [Compilar "Core System" para el iPhone SDK](/components/core/)
+
+- [Ejemplo de un app en iPhone](https://github.com/beeping-io/beeping-examples)
 
 ## Frase
 

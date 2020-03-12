@@ -4,7 +4,7 @@
 
 > This page can be read in the following languages:
 >  
-> [English](https://docs.beeping.land/tutorials/iphone-hello/) | [Spanish](https://docs-es.beeping.land/tutorials/iphone-hello/)
+> [English](https://docs.beeping.io/tutorials/iphone-hello/) | [Spanish](https://docs-es.beeping.io/tutorials/iphone-hello/)
 
 ## Objective
 
@@ -16,9 +16,9 @@ To do this we will follow the following steps:
 
 - Creating an iPhone project
 
-- Instalación del SDK de iPhone
-
 - IPhone SDK installation
+
+- Using the iPhone SDK
 
 - Use the simulator to capture the content of the **beep**
 
@@ -506,11 +506,13 @@ Below we show you the API of the **Beeping framework** for iPhone:
 
 ## Links
 
-Here you have a series of links related to BeepBox:
+Here you have a series of links related to iPhone SDK:
 
 - [Components: iPhone SDK](/components/sdk-iphone/)
 
 - [Compile "Core System" to iPhone SDK](/components/core/)
+
+- [iPhone App example](https://github.com/beeping-io/beeping-examples)
 
 ## Quote
 
