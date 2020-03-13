@@ -1,10 +1,32 @@
-# Overview
+# Investments
 
-!!! Note "Overview"
-    **Sshhhhh...** we are working on this page.
-    **Meanwhile**, you can think about how to solve this problem.
+## Languages
 
-[![PNP Problem](/assets/images/src/pnp.jpg)](/assets/images/src/pnp.jpg)
+> This page can be read in the following languages:
+>  
+> [English](https://docs.beeping.io/donations) | [Spanish](https://docs-es.beeping.io/donations)
 
-!!! quote "Mark Twain"
-    The two most important days in your life are the day you were born and the day you find out why.
+## Overview
+
+A **research and development** project like ours needs financing.
+
+We have been developing this protocol for more than 5 years with private investors and we have already come this far, but we must continue.
+
+To date **Beeping** has already invested more than $ 1M in research and development in this project to offer the world this new communication protocol.
+
+## Crowdfunding
+
+We are preparing a series of measures to be able to **offer shareholding packages** through private investment that we will communicate to you as we move forward.
+
+!!! info "Investors"
+
+    If you want to know further information about how to invest, you can contact us by email **founders@beeping.io**
+
+## Subscribe
+
+We recommend you visit [our official website](https://beeping.io) to stay up to date with all our updates.
+
+## Quote
+
+!!! quote "Nelson Mandela"
+    It always seems impossible until it’s done.

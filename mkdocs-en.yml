@@ -19,11 +19,11 @@ nav:
     - BeepBox: components/beepbox.md
     - SDK-iPhone: components/sdk-iphone.md
     - SDK-Android: components/sdk-android.md
-    - Core System:
-      - Core - Beeping: components/core.md
-      - Core - BeepBox: components/beepbox-core.md
-      - Core - iPhone SDK: components/sdk-iphone-core.md
-      - Core - Android SDK: components/sdk-android-core.md
+  - Core System:
+    - Beeping: components/core.md
+    - BeepBox: components/beepbox-core.md
+    - iPhone SDK: components/sdk-iphone-core.md
+    - Android SDK: components/sdk-android-core.md
   - Tutorials:
     - Overview: tutorials/index.md
     - Create a Beep: tutorials/beeps.md
@@ -31,19 +31,14 @@ nav:
     - Android App: tutorials/android-hello.md
   - Community:
     - Welcome: community/index.md
-    - Documentation: community/docs.md
-    - BeepBox: community/beepbox.md    
-    - SDK-iPhone: community/sdk-iphone.md
-    - SDK-Android: community/sdk-android.md
-    - Core System: community/core.md
+    - Contribution: community/contribution.md
+    - Rules: community/rules.md
+    - Documentation: community/docs.md   
   - Projects:
     - Overview: projects/index.md
-    - Projects: projects/projects.md
-    - Improvements: projects/improvements.md
-    - Ideas: projects/ideas.md
-    - Issues: projects/issues.md    
-  - Donations:
-    - Overview: donations/index.md
+    - Contribution: projects/contribution.md
+  - Crowdfunding:
+    - Investment: donations/index.md
   - Contact:
     - Be in touch: contact/index.md
 

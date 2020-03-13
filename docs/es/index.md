@@ -34,6 +34,10 @@ Esa es la razón principal por la que hemos decidido abrir el código fuente baj
 
 [![Protocol](/assets/images/deck/beeping.004.jpeg)](/assets/images/deck/beeping.004.jpeg)
 
+## Página web
+
+Os remomendamos visitar [nuestra página web oficial](https://beeping.io) para estar al día de todas nuestras actualizaciones.
+
 ## Frase
 
 !!! quote "Mark Twain"

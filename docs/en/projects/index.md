@@ -1,10 +1,40 @@
-# Overview
+# Documentation
 
-!!! Note "Overview"
-    **Sshhhhh...** we are working on this page.
-    **Meanwhile**, you can think about how to solve this problem.
+## Languages
 
-[![PNP Problem](/assets/images/src/pnp.jpg)](/assets/images/src/pnp.jpg)
+> This page can be read in the following languages:
+>  
+> [English](https://docs.beeping.io/projects/documentation/) | [Spanish](https://docs-es.beeping.io/projects/documentation/)
 
-!!! quote "Mark Twain"
-    The two most important days in your life are the day you were born and the day you find out why.
+## Overwiew
+
+This is the section from where we will publish the new **Beeping** projects that come from you.
+
+This section will be divided into three parts:
+
+- Issues or Bugs
+
+- Improvements
+
+- Ideas
+
+## Issues
+
+The issues section will be bug packages that are found.
+
+## Improvements
+
+The improvements will be ideas about what is already developed.
+
+## Ideas
+
+New ideas on how we can use this new communication protocol and therefore apply the necessary changes to it.
+
+## Objetivos
+
+Each of these packages will have an objective that has a scientific logic and that can be applied to a need.
+
+## Quote
+
+!!! quote "Michael Jordan"
+    I’ve failed over and over and over again in my life and that is why I succeed.
