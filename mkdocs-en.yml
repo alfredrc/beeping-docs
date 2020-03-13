@@ -33,7 +33,7 @@ nav:
     - Welcome: community/index.md
     - Contribution: community/contribution.md
     - Rules: community/rules.md
-    - Documentation: community/docs.md   
+    - Documentation: community/documentation.md
   - Projects:
     - Overview: projects/index.md
     - Contribution: projects/contribution.md
