@@ -1,5 +1,13 @@
 # Welcome to the Beeping community
 
+## Languages
+
+> This page can be read in the following languages:
+>  
+> [English](https://docs.beeping.io/community/) | [Spanish](https://docs-es.beeping.io/community/)
+
+## Overview
+
 We're open source and would love to hear from you! Below you'll find ways to get involved in the Beeping community as well as links to resources that can help answer your questions.
 
 ## GitHub
