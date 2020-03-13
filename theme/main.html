@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+
+{% block scripts %}
+
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/7.11.0/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/7.11.0/firebase-analytics.js"></script>
+
+<script>
+    // Your web app's Firebase configuration
+    var firebaseConfig = {
+        apiKey: "AIzaSyDmoF1xzUGdup2hkGFosqMaZ-Lh2k7OfGI",
+        authDomain: "beepingland-12f29.firebaseapp.com",
+        databaseURL: "https://beepingland-12f29.firebaseio.com",
+        projectId: "beepingland-12f29",
+        storageBucket: "beepingland-12f29.appspot.com",
+        messagingSenderId: "493732138503",
+        appId: "1:493732138503:web:7ce3e668163ad212fae4a2",
+        measurementId: "G-KHZB4VP4TT"
+    };
+
+    var page = window.location.pathname;
+    var pageArray = {
+        host: window.location.hostname,
+        path: page
+    };
+
+    // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
+    firebase.analytics();
+    firebase.analytics().logEvent(
+        'screen_view', {
+            screen_name: page
+        }
+    );
+    firebase.analytics().logEvent(
+        'view_item', {
+            items: pageArray
+        }
+    );
+</script>
+
+{% endblock %}
