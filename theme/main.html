@@ -7,37 +7,40 @@
 <script src="https://www.gstatic.com/firebasejs/7.11.0/firebase-analytics.js"></script>
 
 <script>
-    // Your web app's Firebase configuration
+
+    // Your web app's Firebase configuration by default
     var firebaseConfig = {
-        apiKey: "AIzaSyDmoF1xzUGdup2hkGFosqMaZ-Lh2k7OfGI",
-        authDomain: "beepingland-12f29.firebaseapp.com",
-        databaseURL: "https://beepingland-12f29.firebaseio.com",
-        projectId: "beepingland-12f29",
-        storageBucket: "beepingland-12f29.appspot.com",
-        messagingSenderId: "493732138503",
-        appId: "1:493732138503:web:7ce3e668163ad212fae4a2",
-        measurementId: "G-KHZB4VP4TT"
+            apiKey: "AIzaSyDsMIGjOnJ14fexihQpr78oYPguGxOzSW0",
+            authDomain: "beeping-docs-56395.firebaseapp.com",
+            databaseURL: "https://beeping-docs-56395.firebaseio.com",
+            projectId: "beeping-docs-56395",
+            storageBucket: "beeping-docs-56395.appspot.com",
+            messagingSenderId: "659251697374",
+            appId: "1:659251697374:web:8497c2669732e39458144f",
+            measurementId: "G-TRZPXBLWFD"
+        };
+
+    // Your web app's Firebase configuration in Spanish
+    var spanishConfig = {
+        apiKey: "AIzaSyDsMIGjOnJ14fexihQpr78oYPguGxOzSW0",
+        authDomain: "beeping-docs-56395.firebaseapp.com",
+        databaseURL: "https://beeping-docs-56395.firebaseio.com",
+        projectId: "beeping-docs-56395",
+        storageBucket: "beeping-docs-56395.appspot.com",
+        messagingSenderId: "659251697374",
+        appId: "1:659251697374:web:a79a22d02c758d8958144f",
+        measurementId: "G-VL7ZHC3VTP"
     };
 
-    var page = window.location.pathname;
-    var pageArray = {
-        host: window.location.hostname,
-        path: page
-    };
+    
+    if (window.location.hostname.includes('-es') == true) {
+        firebaseConfig = spanishConfig;
+    }
 
     // Initialize Firebase
     firebase.initializeApp(firebaseConfig);
     firebase.analytics();
-    firebase.analytics().logEvent(
-        'screen_view', {
-            screen_name: page
-        }
-    );
-    firebase.analytics().logEvent(
-        'view_item', {
-            items: pageArray
-        }
-    );
+
 </script>
 
 {% endblock %}
