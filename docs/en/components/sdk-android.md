@@ -4,7 +4,7 @@
 
 > This page can be read in the following languages:
 >  
-> [English](https://docs.beeping.io/componets/sdk-android/) | [Spanish](https://docs-es.beeping.io/componets/sdk-android/)
+> [English](https://docs.beeping.io/components/sdk-android/) | [Spanish](https://docs-es.beeping.io/components/sdk-android/)
 
 ## Introduction
 

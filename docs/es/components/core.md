@@ -4,7 +4,7 @@
 
 > Esta página se puede leer en los siguiente idiomas:
 >  
-> [Inglés](https://docs.beeping.io/componets/core/) | [Español](https://docs-es.beeping.io/componets/core/)
+> [Inglés](https://docs.beeping.io/components/core/) | [Español](https://docs-es.components.io/componets/core/)
 
 ## Introducción
 

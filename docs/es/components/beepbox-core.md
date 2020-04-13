@@ -4,7 +4,7 @@
 
 > Esta página se puede leer en los siguiente idiomas:
 >  
-> [Inglés](https://docs.beeping.io/componets/beepbox-core/) | [Español](https://docs-es.beeping.io/componets/beepbox-core/)
+> [Inglés](https://docs.beeping.io/components/beepbox-core/) | [Español](https://docs-es.beeping.io/components/beepbox-core/)
 
 ## Compilación ( MacOs )
 
