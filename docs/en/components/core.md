@@ -26,9 +26,9 @@ Within this repository you will see that there is a qualification per component 
 
 Here is a list of the components that are affected by the **Core System** and where to find the corresponding source code:
 
-* [Beepbox](https://github.com/beeping-io/beeping-core/beepbox)
-* [iPhone SDK](https://github.com/beeping-io/beeping-core/sdk-iphone)
-* [Android SDK](https://github.com/beeping-io/beeping-core/sdk-android)
+* [Beepbox](https://github.com/beeping-io/beeping-core/tree/master/beepbox)
+* [iPhone SDK](https://github.com/beeping-io/beeping-core/tree/master/iphone)
+* [Android SDK](https://github.com/beeping-io/beeping-core/tree/master/android)
 
 ## Quote
 
