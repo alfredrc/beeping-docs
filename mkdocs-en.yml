@@ -2,7 +2,7 @@
 site_name: Beeping Documentation
 site_description: Beeping - Official documentation.
 site_author: Beeping LLC
-site_url: https://beeping.land
+site_url: https://docs.beeping.io/
 site_dir: 'site/en'
 docs_dir: 'docs/en'
 

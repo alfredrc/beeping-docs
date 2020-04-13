@@ -34,8 +34,7 @@ $ git clone https://github.com/[YOUR_GIT_USERNAME]/beeping-core
 
 ``` bash
 $ cd beeping-core/iphone
-$ make clean
-$ make
+$ sh build.sh
 ```
 
 - At this point you have the library **libBeepingCoreUniversal.a** compiled
