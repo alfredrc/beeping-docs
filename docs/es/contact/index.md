@@ -9,7 +9,7 @@
 ## Be in touch
 
 Cualquier pregunta que tengáis al respecto sobre **este nuevo procolo de comunicación**, podéis hacerla a través de los [canales oficiales de nuestra comunidad](/community/)
-o bien enviando un email a nuestro centro de atención ayuda al correo electrónico hello@beepng.io.
+o bien enviando un email a nuestro centro de atención ayuda al correo electrónico hello@beeping.io.
 
 **Beeping** es un proyecto **científico y abierto a todo el mundo**.
 

@@ -9,7 +9,7 @@
 ## Be in touch
 
 Any questions you have about **this new communication protocol**, you can ask through the [official channels of our community](/community/)
-or by sending an email to our service center help email hello@beepng.io.
+or by sending an email to our service center help email hello@beeping.io.
 
 **Beeping** is a **scientific project and open** to everyone.
 
