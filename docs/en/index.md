@@ -38,6 +38,12 @@ That is the main reason why we have decided to open the source code under an **O
 
 We recommend you visit [our official website](https://beeping.io) to stay up to date with all our updates.
 
+## Downloads
+
+Download all the documents of interest related to Beeping:
+
+* [Company's presentation](/assets/docs/Beeping-Company.pdf)
+
 ## Quote
 
 !!! quote "Mark Twain"

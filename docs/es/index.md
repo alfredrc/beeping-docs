@@ -38,6 +38,12 @@ Esa es la razón principal por la que hemos decidido abrir el código fuente baj
 
 Os remomendamos visitar [nuestra página web oficial](https://beeping.io) para estar al día de todas nuestras actualizaciones.
 
+## Descargas
+
+Desde aquí os podéis descargar todos los documentos de interés relacionados con Beeping:
+
+* [Presentación de la empresa](/assets/docs/Beeping-Company.pdf)
+
 ## Frase
 
 !!! quote "Mark Twain"
