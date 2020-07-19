@@ -32,7 +32,7 @@ Un forma sencilla de enviar vuestro feedback es hacerlo a través del apartado d
 
 Conecta y trabaja con cualquier problema, idea o mejora que tengas en grupo con personas con experiencia en el protocolo de Beeping.
 
-Por favor, [haz click aquñi para unirte a la Comunidad de Beeping en Slack](https://join.slack.com/t/beepingworkspace/shared_invite/enQtOTY5NDc1ODAxNzYzLTEzNmFmZjNhNDdjOTRjZDUzN2JmNmVjZWVjMGU2Yjc4MjgxMTUwNWM1Y2E2ZjMyY2NlYWUzNjQxZDZlNWQ3NTE)
+Por favor, [haz click aquí para unirte a la Comunidad de Beeping en Slack](https://join.slack.com/t/beepingworkspace/shared_invite/enQtOTY5NDc1ODAxNzYzLTEzNmFmZjNhNDdjOTRjZDUzN2JmNmVjZWVjMGU2Yjc4MjgxMTUwNWM1Y2E2ZjMyY2NlYWUzNjQxZDZlNWQ3NTE)
 
 ## Frase
 
