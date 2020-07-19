@@ -19,6 +19,7 @@ nav:
     - BeepBox: components/beepbox.md
     - SDK-iPhone: components/sdk-iphone.md
     - SDK-Android: components/sdk-android.md
+    - Changelog: components/changelog.md
   - Core System:
     - Beeping: components/core.md
     - BeepBox: components/beepbox-core.md

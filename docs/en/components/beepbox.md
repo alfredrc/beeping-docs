@@ -6,6 +6,8 @@
 >  
 > [English](https://docs.beeping.io/components/beepbox/) | [Spanish](https://docs-es.beeping.io/components/beepbox/)
 
+> **Current version**: 1.1.0
+
 ## Introduction
 
 **Beepbox** is the **Beeping** component that aims to encrypt data within an audio file. This audio file (as explained above) we call it **Beep**.
