@@ -28,7 +28,7 @@ Here are the steps you must follow to create your first **App**.
     
 The first thing we should do is download the Android SDK.
 
-[Click here to download the framework](https://github.com/beeping-io/sdk-android/releases/download/1.0.0/AndroidBeepingCore-release.aar.zip)
+[Click here to download the framework](https://github.com/beeping-io/sdk-android/releases/download/1.1.2/AndroidBeepingCore-release.aar.zip)
 
 Once downloaded we unzip it and leave the **AndroidBeepingCore-release.aar** file accessible for later.
 
@@ -58,7 +58,7 @@ Let's call our **beeping-hello** application.
 - We copy the framework into the following directory of our app:
 
 ``` bash
-$ cp AndroidBeepingCore-release.aar [APP]/app/libs/AndroidBeepingCore.aar
+$ cp AndroidBeepingCore-release.aar [APP]/AndroidBeepingCore/AndroidBeepingCore.aar
 ```
 
 !!! warning "AndroidBeepingCore"
